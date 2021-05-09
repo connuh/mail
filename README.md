@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=connuh&repo=mail&cache_seconds=86400&theme=default">
+</p>
+
 # Mail - an API wrapper. 📧
 ### API Wrapper for [1secmail](https://www.1secmail.com/) written in [Deno](https://deno.land)!
 ---
