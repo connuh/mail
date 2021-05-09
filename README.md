@@ -4,11 +4,6 @@
 # Usage
 
 ```ts
-/**
- * @author Conner
- * @since 08/05/21
- */
-
 import Mail from "./mod.ts";
 
 /* Generate 10 E-Mails */
